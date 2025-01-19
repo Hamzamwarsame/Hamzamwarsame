@@ -1,6 +1,7 @@
 <h1>Hi, I'm Hamza!
 
 <h2>👨‍💻 Software Development Projects:</h2>
+- <a href="https://github.com/Hamzamwarsame/Stock-Management-System-Python" target="_blank">Stock Management System</a>
 
 
 

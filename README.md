@@ -6,13 +6,11 @@
 
 
 <h2> 🤳 Connect with me:</h2>
+[<img align="left" alt="HamzaWarsame | LinkedIn" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: http://linkedin.com/in/hamza-warsame-7126501b9
 
 
-
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](http://linkedin.com/in/hamza-warsame-7126501b9)
-
-
-[linkedin]: (http://linkedin.com/in/hamza-warsame-7126501b9)
 
 <!--
 
